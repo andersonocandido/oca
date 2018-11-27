@@ -29,7 +29,7 @@ package mock.exam.me.q45;
 // g- wrong
 // Runtime exception.
 
-public class Result {
+class Result {
 	public static void main(String[] args) {
 		// d
 		// uncomment to see
