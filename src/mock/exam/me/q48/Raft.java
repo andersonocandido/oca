@@ -21,7 +21,7 @@ package mock.exam.me.q48;
 // d - wrong
 // default StringBuilder rideWave (StringBuffer a) { return null; }
 
-public class Raft {
+class Raft {
 
 	public String rideWave() {
 		return null;
