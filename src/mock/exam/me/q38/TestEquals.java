@@ -34,7 +34,7 @@ class Book {
 	}
 }
 
-public class TestEquals {
+class TestEquals {
 	public static void main(String... args) {
 		Book b1 = new Book("1234-4567");
 		Book b2 = new Book("1234-4567");
