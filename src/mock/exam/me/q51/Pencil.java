@@ -1,7 +1,7 @@
 package mock.exam.me.q51;
 
 /*
- * Page: 561 (592 in pdf)
+ * Page: 562 (593 in pdf)
  * 
  * ME-Q51) Choose the option that meets the following specification: Create a
  * well-encapsulated class Pencil whit one instance variable model. The value of

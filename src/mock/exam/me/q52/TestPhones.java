@@ -1,7 +1,7 @@
 package mock.exam.me.q52;
 
 /*
- * Page: 561 (592 in pdf)
+ * Page: 562 (593 in pdf)
  * 
  * ME-Q52) What is the output of the following code? (Select 1 option.)
  * 
