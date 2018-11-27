@@ -3,7 +3,7 @@ package mock.exam.me.q50;
 /*
  * Page: 561 (592 in pdf)
  * 
- * ME-Q49) What is the output of the following code? (Select 1 option.)
+ * ME-Q50) What is the output of the following code? (Select 1 option.)
  * 
  * Correct answer: d
  */
