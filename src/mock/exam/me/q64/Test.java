@@ -29,7 +29,8 @@ class Person {
 	}
 }
 
-class Employee extends Person {
+// uncomment to see
+class Employee /* extends Person */ {
 }
 
 class Test {
